@@ -98,10 +98,13 @@ public class Day02 : AocFixture
     [Test]
     public void Part2()
     {
-        int answer = 0;
-        
+        var answer = 0;
+
+        foreach (var row in _rows)
+        {
             
         }
+        
         
     }
 }
